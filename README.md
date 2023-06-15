@@ -36,7 +36,7 @@ $ npm run start
 ```
 
 
-### Contact: +250785182823
+### Contact: +250785182823/ +250781789636
 ### Author
 [IZERE Ange Felix](https://github.com/Angelus123)
 [Claudine NIYIGENA](https://github.com/claudinenic)
